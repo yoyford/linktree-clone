@@ -117,6 +117,22 @@ body{
     top: 30%;
     z-index: -1;
 }
+.position-meme-4{
+    position: absolute;
+    right: 20%;
+    top: 20%;
+    z-index: -1;
+}
+.dance{
+    width: 120px;
+    height: 120px;
+}
+.position-meme-5{
+    position: absolute;
+    left: 15%;
+    top: 60%;
+    z-index: -1;
+}
 #bg{
     position:absolute;
     top: 0;
