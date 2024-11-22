@@ -134,6 +134,12 @@ body{
     top: 60%;
     z-index: -1;
 }
+.position-meme-6{
+    position: absolute;
+    right: 24%;
+    top: 70%;
+    z-index: -1;
+}
 #bg{
     position: absolute;
     top: 0;
