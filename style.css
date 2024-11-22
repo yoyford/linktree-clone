@@ -140,6 +140,18 @@ body{
     top: 70%;
     z-index: -1;
 }
+.position-meme-6{
+    position: absolute;
+    right: 24%;
+    top: 70%;
+    z-index: -1;
+}
+.position-meme-7{
+    position: absolute;
+    left: 25%;
+    top: 85%;
+    z-index: -1;
+}
 #bg{
     position: absolute;
     top: 0;
