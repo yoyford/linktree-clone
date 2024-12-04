@@ -16,7 +16,7 @@ body{
     height: 100%;
     max-width: 580px;
     font-family: var(--firstfont);
-    padding: 0 1rem;
+    padding: 1rem 1rem;
 }
 #header{
     margin-top: 3rem;
